@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "e9dc7d38ba00102e",
+    "type": "split",
+    "children": [
+      {
+        "id": "312b21a49adede52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71388191d3a1954c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integrali/Teoremi Integrali Definiti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f843ffb93379a4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b94d2c434345b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c87ec8852d54517",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f079412ab87a7a8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae0bab8fe655c855",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2a2ed581ffe573c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f550a56a3b6082fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b8be2fa17b90a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Integrali/Teoremi Integrali Definiti.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fda314d27ac2a6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Integrali/Teoremi Integrali Definiti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74074f001313c2d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a784a178f9210616",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Integrali/Teoremi Integrali Definiti.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "71388191d3a1954c",
+  "lastOpenFiles": [
+    "Integrali/Integrali indefiniti.md",
+    "Integrali/Integrali definiti.md",
+    "Integrali/IntegraleDefinitoTeoria.pdf"
+  ]
+}

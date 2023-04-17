@@ -24,17 +24,13 @@ In altre parole, le funzioni continue in un intervallo hanno sempre primitiva ne
 > Siano $I \subseteq\mathbb{R}$ un intervallo, $f:I\rightarrow\mathbb{R}$ funzione continua, $x_0\in I$, $G:I\rightarrow\mathbb{R}$ una primitiva di $f$ su $I$ e $F(x)=\int\limits_{x_0}^x{f(t)\:dt}$ la [funzione integrale](<Integrali definiti#Funzione Integrale>) di $f$ su $I$ associata a $x_0$. 
 > Allora $F(x)=G(x)-G(x_0)\:\forall x\in I$.
 > Inoltre, se $f$ è derivabile con derivata continua su $I$ si ha che
-> $$
- \forall x\in I: \:\: f(x)=f(x_0)+\int\limits_{x_0}^x{f'(t)\:dt}
- $$
+> $\forall x\in I: \:\: f(x)=f(x_0)+\int\limits_{x_0}^x{f'(t)\:dt}$
 
 La prima parte del corollario deriva dal fatto che due primitive di una stessa funzione (F per il teorema fondamentale, G per ipotesi del teorema fondamentale) differiscono, per un teorema degli integrali indefiniti (!!completa), per una costante $c: F(x)=G(x)-c \:\forall x\in I\Rightarrow c=G(x_0)-F(x_0)$. Ma $F(x_0)=0$ per definizione, quindi $c=G(x_0)$.
 
 ### Teorema di Torricelli-Barrow
 >Siano $I\subseteq\mathbb{R}$ un intervallo, $f:I\rightarrow\mathbb{R}$ una funzione continua, $G:I\rightarrow\mathbb{R}$ una primitiva di $f$ su $I$ e $a,b\in I$.
 >Allora
->$$
-\int\limits_b^a{f(x)\:dx}=G(b)-G(a)
- $$
+>$\int\limits_b^a{f(x)\:dx}=G(b)-G(a)$
 
 Segue quasi direttamente dal corollario del T.F.C.I, e permette di calcolare rapidamente l'area con segno del trapezoide semplicemente come differenza tra i valori assunti dalla primitiva agli estremi della funzione.
